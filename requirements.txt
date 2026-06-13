@@ -1,0 +1,7 @@
+streamlit>=1.36
+pandas>=2.1
+numpy>=1.26
+openpyxl>=3.1
+rapidfuzz>=3.6
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
